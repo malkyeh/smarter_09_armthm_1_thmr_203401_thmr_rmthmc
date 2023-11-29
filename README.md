@@ -1,0 +1,2 @@
+# smarter_09_armthm_1_thmr_203401_thmr_rmthmc
+利用畜牧場溫濕度及乳量來預測乳牛產乳量之迴歸模型
